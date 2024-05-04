@@ -237,6 +237,27 @@ span {
     margin-top: 2px;
 }
 
+.signin {
+    margin-top: 20px;
+    width: 100%;
+    height: 116px;
+    background-color: white;
+    font-size: 13px;
+    color: #0f1111;
+    padding-top: 50px;
+    text-align: center;
+    border-top: 0.5px solid #dddddd;
+}
+
+.bttn {
+    background-color: #f88d2a;
+    border: none;
+    width: 230px;
+    height: 30px;
+    border-radius: 4px;
+    color: #0f1111;
+}
+
 
 /* footer */
 
